@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          this will deploy automatically on EB
+          this will deploy automatically on EB 2
         </p>
         <a
           className="App-link"
