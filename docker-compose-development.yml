@@ -1,0 +1,12 @@
+version: '3'
+services:
+  deployment-dev-volumes:
+    build:
+      context: .
+      dockerfile: Dockerfile.development      
+    ports:
+      - '3000:3000'
+    volumes:
+      - C:\Users\Marti\Documents\RM\Courses\TestBen\test-react-docker-gh:/app
+      - /app/node_modules
+    command: npm run docker
