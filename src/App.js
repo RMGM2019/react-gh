@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is meant for the new environment
+          This is meant for the new environment 2
         </p>
         <a
           className="App-link"
