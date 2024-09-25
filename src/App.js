@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          All new 8
+          This is meant for the new environment
         </p>
         <a
           className="App-link"
